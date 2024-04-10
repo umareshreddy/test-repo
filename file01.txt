@@ -5,3 +5,6 @@ welcome to git clas...!
 {
 our first push got completed...!
 }
+{
+welcome to branching strategy...!
+}
